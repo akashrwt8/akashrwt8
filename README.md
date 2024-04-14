@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is ... and I'm a ..., from ....</h2>
+<h2 align="center">Hello! I'm Akash Singh, a dedicated B.Tech second-year student at Graphic Era Hill University. Hailing from the beautiful town of Rudraprayag, I am passionate about leveraging technology to solve real-world problems.</h2>
 
 ###
 
